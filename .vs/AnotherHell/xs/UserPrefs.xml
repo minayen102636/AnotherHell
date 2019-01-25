@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A626AE5A-96FA-370D-9F70-C13937654A44}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Downloads/LetFireballFly/Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="../../Downloads/LetFireballFly/Assets/Scripts/PlayerController.cs" Line="22" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
